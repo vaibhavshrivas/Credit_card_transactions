@@ -115,6 +115,8 @@ where Lowest_spend=1 or Highest_spend=1
 group by city;
 ```
 ### Sample Output
+<img src="https://github.com/user-attachments/assets/a28daff8-d50f-4bca-88b9-af5f2c557388" 
+     width="281" height="333" alt="image" />
 
 
 🔹write a query to find percentage contribution of spends by females for each expense type
@@ -127,6 +129,8 @@ where gender ='F'
 group by exp_type,total_spend;
 ```
 ### Sample Output
+<img src="https://github.com/user-attachments/assets/449e9d41-49f2-4a63-b1a8-17406cf146db"
+     width="383" height="147" alt="image" />
 
 🔹which card and expense type combination saw highest month over month growth in Jan-2014
 ```sql
@@ -147,6 +151,8 @@ from Prev_Month_spend
 order by Perc_ desc;
 ```
 ### Sample Output
+<img src="https://github.com/user-attachments/assets/ee5feff1-fad1-4cd1-995f-4210d89c5b4c"
+     width="395" height="60" alt="image"/>
 
 🔹which city took least number of days to reach its 500th transaction after the first transaction in that city
 ```sql
@@ -166,8 +172,10 @@ having COUNT(*)=2
 order by Diff_
 ```
 ### Sample Output
+<img src="https://github.com/user-attachments/assets/d5efd589-bcc2-418b-954f-881e676b76d4"
+     width="306" height="266" alt="image" />
 
-Tool Used:
-*Microsoft Excel
-*SQL
-*SQL Server RDBMS
+>Tool Used:
+>Microsoft Excel,
+>SQL,
+>SQL Server RDBMS
