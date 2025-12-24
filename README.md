@@ -1,7 +1,7 @@
 # Credit_card_transactions
 A complete SQL-based case study on the Credit Card Transactions from 2013 to 2015. This dataset analyzes Credit Card usage base on Gender,City and Transaction type using SQL queries
 
-📂 Dataset Tables Used
+📂 Dataset Tables Used\
 `Credit_card_transactions`: Contains all the Transactions happened between 2013 to 2015.
 
 🔹write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
@@ -175,7 +175,7 @@ order by Diff_
 <img src="https://github.com/user-attachments/assets/d5efd589-bcc2-418b-954f-881e676b76d4"
      width="306" height="266" alt="image" />
 
->Tool Used:
->Microsoft Excel,
->SQL,
+>Tool Used:\
+>Microsoft Excel,\
+>SQL,\
 >SQL Server RDBMS
